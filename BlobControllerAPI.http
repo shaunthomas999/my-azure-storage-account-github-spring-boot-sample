@@ -1,0 +1,12 @@
+###
+
+GET http://localhost:8080/blob/readBlobFile
+
+###
+
+POST http://localhost:8080/blob/writeBlobFile
+Content-Type: text/plain
+
+"Content from Shaun"
+
+###
